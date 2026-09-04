@@ -37,6 +37,18 @@
 
 ---
 
+
+---
+
+## 🎓 Learn This Material as a Free Video Course
+
+This curriculum is taught as **AI in Healthcare: Diagnosis to Drug Discovery — The Trustworthy AI Track** on
+[**BioDockify Learn**](https://learn.biodockify.com) — 24 free AI-narrated video lessons covering the full
+healthcare-AI landscape, hands-on Explainable AI (SHAP, LIME, GradCAM, GEMEX), governance and security,
+and clinical-judgment training.
+
+**👉 Start free: [learn.biodockify.com](https://learn.biodockify.com)**
+
 ## Why This Repository?
 
 > **4.3 million** people die annually from conditions AI can help detect earlier. **$2.6 billion** is spent developing a single drug that AI could reduce to **$300 million**. Radiologists face burnout reading **50+ scans per hour** while AI can flag critical findings in **seconds**.
